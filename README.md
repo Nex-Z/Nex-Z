@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  全栈开发者 / AI 应用开发者 / 独立开发者
+</p>
+
+<p align="center">
   Full-Stack Developer / AI Application Developer / Indie Developer
 </p>
 
@@ -10,23 +14,19 @@
   <img src="https://komarev.com/ghpvc/?username=Nex-Z&amp;label=Visitors&amp;style=flat-square&amp;color=4b5563" alt="Visitor Badge" />
 </p>
 
+我专注于把想法落成真实可用的软件产品，工作覆盖后端服务、桌面客户端、移动应用，以及面向实际场景的 AI 工作流。
+我偏好克制、专业、可长期维护的产品表达，而不是短期的演示感。
+
 I build end-to-end products across backend services, desktop clients, mobile apps, and AI-native workflows.
-Most of my work is practical software with a product mindset: clear architecture, restrained interfaces, and tools meant to be shipped and used.
+I prefer restrained, practical, and durable products over one-off demos.
 
-## About
+## 关于 / About
 
-- Full-stack engineering from API design to frontend delivery.
-- AI applications, MCP tooling, and workflow-oriented products.
-- Independent software with calm design and long-term maintainability.
+- 全栈开发，覆盖 API 设计、系统实现与前端交付。 / Full-stack engineering from API design to frontend delivery.
+- 聚焦 AI 应用、MCP 工具链与可落地的智能工作流。 / Focused on AI applications, MCP tooling, and practical intelligent workflows.
+- 偏爱简洁、耐用、可长期维护的独立软件产品。 / I prefer restrained, durable software with long-term maintainability.
 
-## Selected Work
-
-- [Synapse](https://github.com/Nex-Z/Synapse): OpenAPI / Swagger to MCP server adapter with orchestration, RBAC, SSE updates, and a management console. `Python` `FastAPI` `Vue 3` `TypeScript`
-- [LingSubtitle](https://github.com/Nex-Z/LingSubtitle): Real-time desktop subtitle app built around system audio capture, translation, and floating captions. `Rust` `React 19` `Tauri 2`
-- [chrononote](https://github.com/Nex-Z/chrononote): Android-first note app with local persistence, rich editing, image export, tests, and release automation. `Flutter` `Riverpod` `SQLite`
-- [Promopter](https://github.com/Nex-Z/Promopter): Local desktop prompt manager for writing, organizing, previewing, and versioning AI prompts. `Tauri 2` `Next.js` `React 19` `SQLite`
-
-## GitHub
+## GitHub 概览 / Snapshot
 
 <p align="center">
   <picture>
@@ -41,7 +41,7 @@ Most of my work is practical software with a product mindset: clear architecture
     <img
       width="49%"
       src="https://github-readme-stats.vercel.app/api?username=Nex-Z&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76&amp;icon_color=0969da"
-      alt="GitHub Stats"
+      alt="GitHub 统计 / GitHub Stats"
     />
   </picture>
   <picture>
@@ -56,7 +56,7 @@ Most of my work is practical software with a product mindset: clear architecture
     <img
       width="49%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Z&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76"
-      alt="Top Languages"
+      alt="常用语言 / Top Languages"
     />
   </picture>
 </p>
@@ -74,7 +74,7 @@ Most of my work is practical software with a product mindset: clear architecture
     <img
       width="72%"
       src="https://streak-stats.demolab.com?user=Nex-Z&amp;hide_border=true&amp;background=FFFFFF00&amp;stroke=e4e2e2&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;currStreakLabel=1f2328&amp;sideNums=1f2328&amp;sideLabels=656d76&amp;dates=656d76"
-      alt="GitHub Streak"
+      alt="连续提交 / GitHub Streak"
     />
   </picture>
 </p>
@@ -92,7 +92,7 @@ Most of my work is practical software with a product mindset: clear architecture
     <img
       width="100%"
       src="https://github-profile-trophy.vercel.app/?username=Nex-Z&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=12"
-      alt="GitHub Trophy"
+      alt="GitHub 成就 / GitHub Trophy"
     />
   </picture>
 </p>
@@ -110,7 +110,7 @@ Most of my work is practical software with a product mindset: clear architecture
     <img
       width="100%"
       src="https://github-readme-activity-graph.vercel.app/graph?username=Nex-Z&amp;bg_color=ffffff00&amp;color=656d76&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=ddf4ff&amp;hide_border=true"
-      alt="GitHub Activity Graph"
+      alt="活跃图谱 / GitHub Activity Graph"
     />
   </picture>
 </p>
