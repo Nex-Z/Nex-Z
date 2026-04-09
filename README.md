@@ -14,12 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=Nex-Z&amp;label=Visitors&amp;style=flat-square&amp;color=4b5563" alt="Visitor Badge" />
 </p>
 
-我专注于把想法落成真实可用的软件产品，工作覆盖后端服务、桌面客户端、移动应用，以及面向实际场景的 AI 工作流。
-我偏好克制、专业、可长期维护的产品表达，而不是短期的演示感。
-
-I build end-to-end products across backend services, desktop clients, mobile apps, and AI-native workflows.
-I prefer restrained, practical, and durable products over one-off demos.
-
 ## 关于 / About
 
 - 全栈开发，覆盖 API 设计、系统实现与前端交付。 / Full-stack engineering from API design to frontend delivery.
