@@ -20,91 +20,142 @@
 - 聚焦 AI 应用、MCP 工具链与可落地的智能工作流。 / Focused on AI applications, MCP tooling, and practical intelligent workflows.
 - 偏爱简洁、耐用、可长期维护的独立软件产品。 / I prefer restrained, durable software with long-term maintainability.
 
+## 技术栈 / Tech Stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python&amp;theme=light" alt="Python" title="Python" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts&amp;theme=light" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/go-dark.svg" />
+    <img src="./assets/tech/go-light.svg" alt="Go" title="Go" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/rust-dark.svg" />
+    <img src="./assets/tech/rust-light.svg" alt="Rust" title="Rust" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java&amp;theme=light" alt="Java" title="Java" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=kotlin&amp;theme=light" alt="Kotlin" title="Kotlin" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart&amp;theme=light" alt="Dart" title="Dart" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react&amp;theme=light" alt="React" title="React" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vue&amp;theme=light" alt="Vue" title="Vue" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=light" alt="Next.js" title="Next.js" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter&amp;theme=light" alt="Flutter" title="Flutter" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tauri&amp;theme=light" alt="Tauri" title="Tauri" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=fastapi&amp;theme=light" alt="FastAPI" title="FastAPI" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nestjs&amp;theme=light" alt="NestJS" title="NestJS" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/springboot-dark.svg" />
+    <img src="./assets/tech/springboot-light.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/tech/gin-dark.svg" />
+    <img src="./assets/tech/gin-light.svg" alt="Gin" title="Gin" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres&amp;theme=light" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=redis&amp;theme=light" alt="Redis" title="Redis" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=docker&amp;theme=light" alt="Docker" title="Docker" width="48" height="48" />
+  </picture>&ensp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cloudflare&amp;theme=light" alt="Cloudflare" title="Cloudflare" width="48" height="48" />
+  </picture>
+</p>
+
 ## GitHub 概览 / Snapshot
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Nex-Z&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=c9d1d9&amp;text_color=8b949e&amp;icon_color=58a6ff"
+      srcset="https://github-stats-extended.vercel.app/api?username=Nex-Z&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=00000000&amp;title_color=c9d1d9&amp;text_color=8b949e&amp;icon_color=58a6ff"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Nex-Z&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76&amp;icon_color=0969da"
+      srcset="https://github-stats-extended.vercel.app/api?username=Nex-Z&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76&amp;icon_color=0969da"
     />
     <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=Nex-Z&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76&amp;icon_color=0969da"
+      width="420"
+      src="https://github-stats-extended.vercel.app/api?username=Nex-Z&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;rank_icon=github&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76&amp;icon_color=0969da"
       alt="GitHub 统计 / GitHub Stats"
     />
   </picture>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Z&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=00000000&amp;title_color=c9d1d9&amp;text_color=8b949e"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Nex-Z&amp;layout=compact&amp;card_width=420&amp;hide_border=true&amp;langs_count=8&amp;bg_color=00000000&amp;title_color=c9d1d9&amp;text_color=8b949e"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Z&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Nex-Z&amp;layout=compact&amp;card_width=420&amp;hide_border=true&amp;langs_count=8&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76"
     />
     <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex-Z&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76"
+      width="420"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nex-Z&amp;layout=compact&amp;card_width=420&amp;hide_border=true&amp;langs_count=8&amp;bg_color=ffffff00&amp;title_color=1f2328&amp;text_color=656d76"
       alt="常用语言 / Top Languages"
     />
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=Nex-Z&amp;hide_border=true&amp;background=00000000&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakNum=c9d1d9&amp;currStreakLabel=c9d1d9&amp;sideNums=c9d1d9&amp;sideLabels=8b949e&amp;dates=8b949e"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=Nex-Z&amp;hide_border=true&amp;background=FFFFFF00&amp;stroke=e4e2e2&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;currStreakLabel=1f2328&amp;sideNums=1f2328&amp;sideLabels=656d76&amp;dates=656d76"
-    />
-    <img
-      width="72%"
-      src="https://streak-stats.demolab.com?user=Nex-Z&amp;hide_border=true&amp;background=FFFFFF00&amp;stroke=e4e2e2&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;currStreakLabel=1f2328&amp;sideNums=1f2328&amp;sideLabels=656d76&amp;dates=656d76"
-      alt="连续提交 / GitHub Streak"
-    />
-  </picture>
-</p>
+
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Nex-Z&amp;theme=algolia&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=12"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nex-Z&amp;theme=github_dark&amp;bg_color=00000000&amp;border_color=00000000"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-profile-trophy.vercel.app/?username=Nex-Z&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=12"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nex-Z&amp;theme=github&amp;bg_color=00000000&amp;border_color=00000000"
     />
     <img
       width="100%"
-      src="https://github-profile-trophy.vercel.app/?username=Nex-Z&amp;theme=flat&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=6&amp;margin-w=12"
-      alt="GitHub 成就 / GitHub Trophy"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nex-Z&amp;bg_color=00000000&amp;color=8b949e&amp;line=58a6ff&amp;point=c9d1d9&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Nex-Z&amp;bg_color=ffffff00&amp;color=656d76&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=ddf4ff&amp;hide_border=true"
-    />
-    <img
-      width="100%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Nex-Z&amp;bg_color=ffffff00&amp;color=656d76&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=ddf4ff&amp;hide_border=true"
-      alt="活跃图谱 / GitHub Activity Graph"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nex-Z&amp;theme=github&amp;bg_color=00000000&amp;border_color=00000000"
+      alt="贡献活动 / GitHub Contribution Activity"
     />
   </picture>
 </p>
